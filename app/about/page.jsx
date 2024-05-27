@@ -4,9 +4,6 @@ import image2 from "../../public/Images/Who_We_Are_Image_1.jpg";
 import image3 from "../../public/Images/Who_We_Are_Image_2.jpg";
 import about1 from "../../public/Images/about11.jpg";
 import about2 from "../../public/Images/about12.jpg";
-import about3 from "../../public/Images/slide2.JPG";
-// import about4 from "../../public/Images/slide3.JPG";
-import slide9 from "../../public/Images/slide9.jpg";
 import Image from 'next/image';
 
 
