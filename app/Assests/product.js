@@ -1,6 +1,6 @@
 import pro1 from "../../public/Images/slide1.jpg"
-import pro2 from "../../public/Images/slide2.JPG"
-import pro3 from "../../public/Images/slide3.JPG"
+import pro2 from "../../public/Images/slide2.jpg"
+import pro3 from "../../public/Images/slide3.jpg"
 import pro4 from "../../public/Images/slide9.jpg"
 
 
